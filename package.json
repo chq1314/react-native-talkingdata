@@ -1,6 +1,6 @@
 {
-  "name": "react-native-talkingdata",
-  "version": "1.0.5",
+  "name": "react-native-talkingdata2",
+  "version": "2.0.0",
   "description": "TalkingData Module",
   "main": "index.js",
   "scripts": {
@@ -16,10 +16,13 @@
     "android",
     "talkingdata"
   ],
-  "author": "lvbingru",
-  "license": "ISC",
+  "author": "blackchen",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/reactnativecn/react-native-talkingdata/issues"
+    "url": "https://github.com/chq1314/react-native-talkingdata/issues"
   },
-  "homepage": "https://github.com/reactnativecn/react-native-talkingdata#readme"
+  "homepage": "https://github.com/chq1314/react-native-talkingdata",
+  "dependencies": {
+    "react-native-talkingdata2": "^2.0.0"
+  }
 }
